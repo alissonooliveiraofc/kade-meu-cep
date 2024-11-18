@@ -2,6 +2,9 @@
 
 Uma aplicação web para consulta de CEP que fornece informações detalhadas com base no código postal fornecido pelo usuário.
 
+## Veja o projeto pronto!
+- Para ver o projeto [clique aqui](http://kade-meu-cep.surge.sh/).
+
 ## 🚀 Funcionalidades
 
 - 🔍 Consulta de informações detalhadas como:
